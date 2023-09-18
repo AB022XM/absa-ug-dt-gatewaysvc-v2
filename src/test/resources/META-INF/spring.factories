@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.dsarena.corp.\
+    gatewaysvc.config.SqlTestContainersSpringContextCustomizerFactory
